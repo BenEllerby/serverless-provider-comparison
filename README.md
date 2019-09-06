@@ -1,6 +1,6 @@
 # Serverless Cloud Provider Comparison
 
-Medium Article explaining the comparison: ...
+Medium Article explaining the comparison, motivation and provider selection.
 
 The comparison matrix is put into this repo to allow the community to challenge and make changes as the landscape changes. 
 
