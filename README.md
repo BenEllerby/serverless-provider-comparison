@@ -1,4 +1,4 @@
-# serverless-provider-comparison
+# Serverless Cloud Provider Comparison
 
 Medium Article explaining the comparison: ...
 
@@ -9,6 +9,11 @@ Please raise an issue or PR if you think anything is wrong or missing.
 
 # Comparison Matrix
 
+## Scale
+- 1: Poor
+- 2: OK
+- 3: Good
+- 4: Great
 
 
 |                        | AWS  | GCP  | Azure |
