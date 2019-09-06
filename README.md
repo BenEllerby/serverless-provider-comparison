@@ -8,9 +8,11 @@ Please raise an issue or PR if you think anything is wrong or missing.
 
 
 # Comparison Matrix
-+------------------------+------+------+-------+
+
+
+
 |                        | AWS  | GCP  | Azure |
-+------------------------+------+------+-------+
+|------------------------|------|------|-------|
 | FaaS Since             | 2015 | 2018 |  2016 |
 | Cold Start Time        |    4 |    2 |     1 |
 | Latency                |    4 |    3 |     1 |
@@ -23,4 +25,5 @@ Please raise an issue or PR if you think anything is wrong or missing.
 | Logging                |    3 |    4 |     3 |
 | Max # Functions        |    4 |    3 |     4 |
 | Developer Experience   |    2 |    2 |     2 |
-+------------------------+------+------+-------+
+
+
